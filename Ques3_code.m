@@ -3,4 +3,4 @@
 % dem = {[1 -0.1584]};
 % H = tf(num,dem,0.1);
 
-%sim("Ques3_system.slx)
+sim("Ques3_system.slx")
